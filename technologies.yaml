@@ -1,0 +1,172 @@
+# A dictionary of common industry technologies, with associated variations.
+
+# https://en.wikipedia.org/wiki/List_of_programming_languages
+languages:
+  Assembly: ['Assembly language']
+  Bash: ['Bash', 'Shell']
+  C#: ['C#', 'C Sharp']
+  C++: ['C++', 'CPlusPlus', 'C Plus Plus']
+  C: ['C']
+  Clojure: ['Clojure']
+  ColdFusion: ['ColdFusion', 'CFML']
+  Dart: ['Dart']
+  Elixir: ['Elixir']
+  Fortran: ['Fortran']
+  Golang: ['Golang']
+  Haskell: ['Haskell']
+  Java: ['Java']
+  JavaScript: ['JavaScript', 'Java Script', 'TypeScript', 'Type Script', 'ECMAScript', 'ES5', 'ES6']
+  Kotlin: ['Kotlin']
+  Lisp: ['Lisp']
+  Objective-C: ['Objective-C', 'Objective C']
+  Pascal: ['Pascal']
+  Perl: ['Perl']
+  PHP: ['PHP']
+  PostScript: ['PostScript']
+  Powershell: ['Powershell']
+  Python: ['Python']
+  R: ['R']
+  Ruby: ['Ruby']
+  Rust: ['Rust']
+  Scala: ['Scala']
+  Smalltalk: ['Smalltalk']
+  Swift: ['Swift']
+  Visual Basic: ['Visual Basic']
+
+# https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
+libraries:
+  Angular: ['Angular', 'AngularJS', 'Angular.js']
+  Backbone.js: ['Backbone', 'BackboneJS', 'Backbone.js']
+  Bootstrap: ['Bootstrap']
+  CakePHP: ['CakePHP']
+  CodeIgniter: ['CodeIgniter']
+  Cordova: ['Cordova']
+  Django: ['Django']
+  Ember.js: ['Ember', 'EmberJS', 'Ember.js']
+  Express.js: ['Express', 'ExpressJS', 'Express.js']
+  Flask: ['Flask']
+  Flutter: ['Flutter']
+  Ionic: ['Ionic']
+  jQuery: ['jQuery']
+  Laravel: ['Laravel']
+  MonoRail: ['MonoRail', 'Castle on Rails']
+  Phalcon: ['Phalcon']
+  Phoenix: ['Phoenix']
+  Rails: ['Rails']
+  React: ['React', 'React Native']
+  Redux: ['Redux']
+  Sinatra: ['Sinatra']
+  Symfony: ['Symfony']
+  Vue.js: ['Vue', 'VueJS', 'Vue.js']
+  Yii: ['Yii']
+
+# https://en.wikipedia.org/wiki/List_of_build_automation_software
+automation:
+  Gulp: ['Gulp', 'Gulp.js']
+  Grunt: ['Grunt', 'Grunt.js']
+  Brunch: ['Brunch']
+  Webpack: ['Webpack']
+
+# https://en.wikipedia.org/wiki/List_of_build_automation_software#Configuration_management
+devops:
+  Ansible: ['Ansible']
+  Capistrano: ['Capistrano']
+  Chef: ['Chef']
+  CircleCI: ['CircleCI', 'Circle CI']
+  Docker: ['Docker']
+  GCP: ['GCP']
+  Gradle: ['Gradle']
+  Graylog: ['Graylog']
+  Jenkins: ['Jenkins']
+  Kubernetes: ['Kubernetes']
+  Logstash: ['Logstash']
+  OpenShift: ['OpenShift']
+  Puppet: ['Puppet']
+  Selenium: ['Selenium']
+  Terraform: ['Terraform']
+  Vagrant: ['Vagrant']
+
+# https://en.wikipedia.org/wiki/Category:Lists_of_database_management_software
+databases:
+  BigQuery: ['BigQuery']
+  Cassandra: ['Cassandra']
+  CouchDB: ['CouchDB']
+  Firebird: ['Firebird']
+  GraphQL: ['GraphQL']
+  MariaDB: ['MariaDB']
+  MongoDB: ['MongoDB']
+  MSSQL: ['MSSQL']
+  MySQL: ['MySQL']
+  Neo4j: ['Neo4j']
+  NoSQL: ['NoSQL']
+  PostgreSQL: ['PostgreSQL', 'Postgres']
+  Redis: ['Redis']
+  Redshift: ['Redshift']
+  SQL: ['SQL']
+  SQLite: ['SQLite']
+  T-SQL: ['T-SQL', 'Transact-SQL']
+
+data:
+  D3.js: ['D3.js']
+  Elasticsearch: ['Elasticsearch']
+  Google Analytics: ['Google Analytics']
+  Hadoop: ['Hadoop']
+  Jupyter: ['Jupyter']
+  Kissmetrics: ['Kissmetrics']
+  MapReduce: ['MapReduce']
+  Matplotlib: ['Matplotlib']
+  Numpy: ['Numpy']
+  OpenCV: ['OpenCV']
+  Pandas: ['Pandas']
+  Tableau: ['Tableau']
+  TensorFlow: ['TensorFlow']
+
+server:
+  .NET: ['.NET']
+  Active Directory: ['Active Directory']
+  Apache: ['Apache']
+  ASP.Net: ['ASP.Net']
+  Nginx: ['Nginx']
+  Node.js: ['Node', 'NodeJS', 'Node.js']
+
+cloud:
+  AWS: ['AWS', 'Amazon Web Services']
+  Azure: ['Azure', 'Microsoft Azure']
+  Google: ['Google']
+  Heroku: ['Heroku']
+
+# https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software
+geographic:
+  ArcGIS: ['ArcGIS']
+  ArcMap: ['ArcMap']
+  Leaflet.js: ['Leaflet.js']
+  Mapbox: ['Mapbox']
+  PostGIS: ['PostGIS']
+  QGIS: ['QGIS']
+
+# https://en.wikipedia.org/wiki/List_of_operating_systems
+os:
+  UNIX: ['UNIX']
+  Linux: ['Linux']
+  Windows: ['Windows']
+  macOS: ['macOS', 'OSX']
+  iOS: ['iOS']
+
+# https://en.wikipedia.org/wiki/List_of_content_management_systems
+cms:
+  WordPress: ['WordPress']
+  Drupal: ['Drupal']
+  Perch: ['Perch']
+  Joomla: ['Joomla']
+  Grav: ['Grav']
+
+# https://en.wikipedia.org/wiki/List_of_collaborative_software
+collaboration:
+  Apollo: ['Apollo']
+  Asana: ['Asana']
+  Confluence: ['Confluence']
+  Jira: ['Jira']
+  Basecamp: ['Basecamp']
+  SharePoint: ['SharePoint']
+  PivotalTracker: ['PivotalTracker']
+  Trello: ['Trello']

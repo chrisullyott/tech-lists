@@ -1,2 +1,3 @@
 # tech-lists
-Lists of tech industry terms.
+
+Lists of web and tech industry terms.
