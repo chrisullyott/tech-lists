@@ -118,6 +118,7 @@ data:
   Numpy: ['Numpy']
   OpenCV: ['OpenCV']
   Pandas: ['Pandas']
+  R: ['R']
   Tableau: ['Tableau']
   TensorFlow: ['TensorFlow']
 
