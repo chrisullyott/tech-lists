@@ -106,6 +106,7 @@ databases:
   SQLite: ['SQLite']
   T-SQL: ['T-SQL', 'Transact-SQL']
 
+# https://en.wikipedia.org/wiki/List_of_statistical_software
 data:
   D3.js: ['D3.js']
   Elasticsearch: ['Elasticsearch']
@@ -119,6 +120,9 @@ data:
   OpenCV: ['OpenCV']
   Pandas: ['Pandas']
   R: ['R']
+  SAS: ['SAS']
+  SPSS: ['SPSS']
+  Stata: ['Stata']
   Tableau: ['Tableau']
   TensorFlow: ['TensorFlow']
 
