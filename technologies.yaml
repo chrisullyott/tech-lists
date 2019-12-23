@@ -74,7 +74,7 @@ devops:
   Chef: ['Chef']
   CircleCI: ['CircleCI', 'Circle CI']
   Docker: ['Docker']
-  GCP: ['GCP']
+  GCP: ['GCP', 'Google Cloud Platform']
   Gradle: ['Gradle']
   Graylog: ['Graylog']
   Jenkins: ['Jenkins']
