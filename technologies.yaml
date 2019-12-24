@@ -33,7 +33,7 @@ languages:
   Scala: ['Scala']
   Smalltalk: ['Smalltalk']
   Swift: ['Swift']
-  Visual Basic: ['Visual Basic']
+  Visual Basic: ['Visual Basic', 'VB.NET']
 
 # https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
 libraries:
@@ -64,7 +64,7 @@ libraries:
   Yii: ['Yii']
 
 # https://en.wikipedia.org/wiki/List_of_build_automation_software
-automation:
+builds:
   Gulp: ['Gulp', 'Gulp.js']
   Grunt: ['Grunt', 'Grunt.js']
   Brunch: ['Brunch']
@@ -74,21 +74,29 @@ automation:
 devops:
   Ansible: ['Ansible']
   Capistrano: ['Capistrano']
+  CFEngine: ['CFEngine', 'CF Engine']
   Chef: ['Chef']
   CircleCI: ['CircleCI', 'Circle CI']
-  Docker: ['Docker']
-  GCP: ['GCP', 'Google Cloud Platform']
   Gradle: ['Gradle']
-  Graylog: ['Graylog']
   Jenkins: ['Jenkins']
-  Kubernetes: ['Kubernetes']
-  Logstash: ['Logstash']
-  OpenShift: ['OpenShift']
   Puppet: ['Puppet']
   Rundeck: ['Rundeck']
-  Selenium: ['Selenium']
   Terraform: ['Terraform']
+  Selenium: ['Selenium']
+
+# https://en.wikipedia.org/wiki/Category:Containerization_software
+containerization:
+  Docker: ['Docker']
+  Kubernetes: ['Kubernetes']
+  OpenShift: ['OpenShift']
   Vagrant: ['Vagrant']
+  VirtualBox: ['VirtualBox']
+
+logs:
+  Grafana: ['Grafana']
+  Graylog: ['Graylog']
+  Kibana: ['Kibana']
+  Logstash: ['Logstash']
 
 # https://en.wikipedia.org/wiki/Category:Lists_of_database_management_software
 databases:
@@ -147,7 +155,7 @@ server:
 cloud:
   AWS: ['AWS', 'Amazon Web Services']
   Azure: ['Azure', 'Microsoft Azure']
-  Google: ['Google']
+  GCP: ['GCP', 'Google Cloud Platform']
   Heroku: ['Heroku']
 
 # https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software
