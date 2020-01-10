@@ -124,6 +124,7 @@ databases:
 
 # https://en.wikipedia.org/wiki/List_of_statistical_software
 data:
+  Datadog: ['Datadog']
   D3.js: ['D3.js']
   Elasticsearch: ['Elasticsearch']
   Google Analytics: ['Google Analytics']
@@ -144,6 +145,7 @@ data:
   scikit-learn: ['scikit-learn', 'scikit learn']
   SciPy: ['SciPy']
   Seaborn: ['Seaborn']
+  Splunk: ['Splunk']
   SPSS: ['SPSS']
   Stata: ['Stata']
   Tableau: ['Tableau']
