@@ -124,6 +124,7 @@ databases:
 
 # https://en.wikipedia.org/wiki/List_of_statistical_software
 data:
+  AMCharts: ['AMCharts']
   Datadog: ['Datadog']
   D3.js: ['D3.js']
   Elasticsearch: ['Elasticsearch']
