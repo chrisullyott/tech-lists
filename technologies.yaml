@@ -36,6 +36,10 @@ languages:
   TypeScript: ['TypeScript', 'Type Script']
   Visual Basic: ['Visual Basic', 'VB.NET']
 
+frontend:
+  HTML: ['HTML', 'HTML5', 'HTML 5', 'XHTML']
+  CSS: ['CSS', 'CSS2', 'CSS 2', 'CSS3', 'CSS 3', 'SASS', 'LESS']
+
 # https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
 libraries:
   Angular: ['Angular', 'AngularJS', 'Angular.js']
