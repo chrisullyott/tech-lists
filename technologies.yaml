@@ -158,6 +158,10 @@ data:
   Tableau: ['Tableau']
   TensorFlow: ['TensorFlow']
 
+api:
+  REST: ['REST', 'RESTful']
+  SOAP: ['SOAP']
+
 server:
   .NET: ['.NET']
   Active Directory: ['Active Directory']
