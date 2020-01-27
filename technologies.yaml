@@ -69,9 +69,10 @@ libraries:
 
 # https://en.wikipedia.org/wiki/List_of_build_automation_software
 builds:
+  Brunch: ['Brunch']
   Gulp: ['Gulp', 'Gulp.js']
   Grunt: ['Grunt', 'Grunt.js']
-  Brunch: ['Brunch']
+  Stencil: ['Stencil', 'Stencil.js']
   Webpack: ['Webpack']
 
 # https://en.wikipedia.org/wiki/List_of_build_automation_software#Configuration_management
