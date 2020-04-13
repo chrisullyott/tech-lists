@@ -65,6 +65,7 @@ libraries:
   React: ['React', 'React Native']
   Redux: ['Redux']
   Sinatra: ['Sinatra']
+  Spring: ['Spring', 'Spring Boot']
   Symfony: ['Symfony']
   TurboGears: ['TurboGears']
   Vue.js: ['Vue', 'VueJS', 'Vue.js']
