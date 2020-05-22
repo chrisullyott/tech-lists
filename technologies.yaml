@@ -33,7 +33,7 @@ languages:
   Scala: ['Scala']
   Smalltalk: ['Smalltalk']
   Swift: ['Swift']
-  TypeScript: ['TypeScript', 'Type Script']
+  #TypeScript: ['TypeScript', 'Type Script']
   Visual Basic: ['Visual Basic', 'VB.NET']
 
 frontend:
