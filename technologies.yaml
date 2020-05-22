@@ -89,6 +89,7 @@ devops:
   CircleCI: ['CircleCI', 'Circle CI']
   Gradle: ['Gradle']
   Jenkins: ['Jenkins']
+  Maven: ['Maven']
   Puppet: ['Puppet']
   Rundeck: ['Rundeck']
   Terraform: ['Terraform']
