@@ -82,6 +82,7 @@ builds:
 # https://en.wikipedia.org/wiki/List_of_build_automation_software#Configuration_management
 devops:
   Ansible: ['Ansible']
+  Ant: ['Ant']
   Capistrano: ['Capistrano']
   CFEngine: ['CFEngine', 'CF Engine']
   Chef: ['Chef']
@@ -89,8 +90,10 @@ devops:
   Gradle: ['Gradle']
   Jenkins: ['Jenkins']
   Maven: ['Maven']
+  Nexus: ['Nexus']
   Puppet: ['Puppet']
   Rundeck: ['Rundeck']
+  TeamCity: ['TeamCity', 'Team City']
   Terraform: ['Terraform']
   Selenium: ['Selenium']
 
