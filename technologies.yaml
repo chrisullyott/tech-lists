@@ -119,6 +119,7 @@ databases:
   DynamoDB: ['DynamoDB']
   Firebird: ['Firebird']
   GraphQL: ['GraphQL']
+  HSQLDB: ['HSQL', 'HSQLDB', 'HyperSQL', 'Hyper SQL']
   MariaDB: ['MariaDB']
   MongoDB: ['MongoDB']
   MSSQL: ['MSSQL']
