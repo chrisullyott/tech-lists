@@ -41,6 +41,7 @@ frontend:
 
 # https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
 libraries:
+  Akka: ['Akka', 'AkkaJS', 'Akka.js']
   Angular: ['Angular', 'AngularJS', 'Angular.js']
   Backbone.js: ['Backbone', 'BackboneJS', 'Backbone.js']
   Bootstrap: ['Bootstrap']
