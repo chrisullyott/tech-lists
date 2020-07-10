@@ -143,7 +143,7 @@ data:
   Google Analytics: ['Google Analytics']
   Hadoop: ['Hadoop', 'Apache Hadoop']
   Jupyter: ['Jupyter']
-  Kafka: ['Kafka', 'Apache Kafka']
+  Kafka: ['Kafka', 'Apache Kafka', 'KSQL', 'ksqlDB']
   Kissmetrics: ['Kissmetrics']
   MapReduce: ['MapReduce']
   MATLAB: ['MATLAB']
